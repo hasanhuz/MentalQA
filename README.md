@@ -2,12 +2,12 @@
 This is the label scheme described in the MentalQA paper:
 Question Types
 * A. Diagnosis. Questions about the interpretation of clinical findings, tests, and the criteria and manifestations of diseases.
-  B. Treatment. Questions about seeking treatments, which may include drug therapy, how to use a drug, and the side effects and contraindications of drugs.
-  C. Anatomy and physiology. This category includes important knowledge about basic medicine, such as tissues, organs, and metabolism.
-  D. Epidemiology. Questions in this category are mainly about the course, prognosis, and sequelae of diseases, as well as the etiology and causation of diseases, and the association of risk factors with diseases.
-  E. Healthy lifestyle. Questions are specified to diet, exercise, mood control and other lifestyle factors that can affect health.
-  F. Provider choices. Questions ask for recommendations for hospitals, medical departments, doctors, and the doctor visiting process. 
-  G. Other. Questions that do not fall under the above-mentioned categories.
+* B. Treatment. Questions about seeking treatments, which may include drug therapy, how to use a drug, and the side effects and contraindications of drugs.
+* C. Anatomy and physiology. This category includes important knowledge about basic medicine, such as tissues, organs, and metabolism.
+* D. Epidemiology. Questions in this category are mainly about the course, prognosis, and sequelae of diseases, as well as the etiology and causation of diseases, and the association of risk factors with diseases.
+* E. Healthy lifestyle. Questions are specified to diet, exercise, mood control and other lifestyle factors that can affect health.
+* F. Provider choices. Questions ask for recommendations for hospitals, medical departments, doctors, and the doctor visiting process. 
+* G. Other. Questions that do not fall under the above-mentioned categories.
 
 Answer Strategies
   1. Information. This category includes answers that provide information, resources, etc. It also includes requests for information. 
