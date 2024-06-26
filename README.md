@@ -23,7 +23,7 @@ Answer Strategies
 
 
 # Citation
-Please cite the following papers if you found them useful. Thanks:)
+Please cite the following papers if you our dataset useful. Thanks:)
 
 ```
 @article{alhuzali2024mentalqa,
