@@ -1,5 +1,5 @@
 # MentalQA: An Annotated Arabic Corpus for Questions and Answers of Mental Healthcare
-This repository provides access to the MentalQA dataset, which was developed in the papers referenced below. The dataset file, named "MentalQA_500_data.csv," comprises four columns of data as follows:
+This repository provides access to the MentalQA dataset, which was developed in the papers referenced below. The dataset file, named "MentalQA_500_data.csv (tab separated)," comprises four columns of data as follows:
 * 1st Column: question
 * 2nd column: answer
 * 3rd column: question types (final_QT)
