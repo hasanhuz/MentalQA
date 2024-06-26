@@ -1,7 +1,7 @@
 # MentalQA: An Annotated Arabic Corpus for Questions and Answers of Mental Healthcare
 This is the label scheme described in the MentalQA paper:
 Question Types
-  A. Diagnosis. Questions about the interpretation of clinical findings, tests, and the criteria and manifestations of diseases.
+* A. Diagnosis. Questions about the interpretation of clinical findings, tests, and the criteria and manifestations of diseases.
   B. Treatment. Questions about seeking treatments, which may include drug therapy, how to use a drug, and the side effects and contraindications of drugs.
   C. Anatomy and physiology. This category includes important knowledge about basic medicine, such as tissues, organs, and metabolism.
   D. Epidemiology. Questions in this category are mainly about the course, prognosis, and sequelae of diseases, as well as the etiology and causation of diseases, and the association of risk factors with diseases.
