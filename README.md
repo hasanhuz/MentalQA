@@ -1,5 +1,12 @@
 # MentalQA: An Annotated Arabic Corpus for Questions and Answers of Mental Healthcare
-This is the label scheme described in the MentalQA paper:
+This repository provides access to the MentalQA dataset, which was developed in the papers referenced below. The dataset file, named "MentalQA_500_data.csv," comprises four columns of data as follows:
+* 1st Column: question
+* 2nd column: answer
+* 3rd column: question types (final_QT)
+* 4th column: answer strategies (final_AS)
+  
+Label description is provided below (refer to the paper for more details): 
+
 Question Types
 * A. Diagnosis. Questions about the interpretation of clinical findings, tests, and the criteria and manifestations of diseases.
 * B. Treatment. Questions about seeking treatments, which may include drug therapy, how to use a drug, and the side effects and contraindications of drugs.
