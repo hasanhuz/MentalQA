@@ -26,12 +26,16 @@ Answer Strategies
 Please cite the following papers if you found our dataset useful. Thanks:)
 
 ```
-@article{alhuzali2024mentalqa,
-  title={MentalQA: An Annotated Arabic Corpus for Questions and Answers of Mental Healthcare},
+@ARTICLE{10600466,
   author={Alhuzali, Hassan and Alasmari, Ashwag and Alsaleh, Hamad},
-  journal={arXiv preprint arXiv:2405.12619},
-  year={2024}
-}
+  journal={IEEE Access}, 
+  title={MentalQA: An Annotated Arabic Corpus for Questions and Answers of Mental Healthcare}, 
+  year={2024},
+  volume={12},
+  number={},
+  pages={101155-101165},
+  keywords={Annotations;Mental health;Medical services;Task analysis;Medical diagnostic imaging;Depression;Collaboration;Corpus creation;mental health;natural language processing;question-answering;questions classification},
+  doi={10.1109/ACCESS.2024.3430068}}
 
 @misc{alhuzali2024evaluatingeffectivenessfoundationalmodels,
       title={Evaluating the Effectiveness of the Foundational Models for Q&A Classification in Mental Health care}, 
