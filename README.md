@@ -14,7 +14,7 @@ Question Types
 * D. Epidemiology. Questions in this category are mainly about the course, prognosis, and sequelae of diseases, as well as the etiology and causation of diseases, and the association of risk factors with diseases.
 * E. Healthy lifestyle. Questions are specified to diet, exercise, mood control and other lifestyle factors that can affect health.
 * F. Provider choices. Questions ask for recommendations for hospitals, medical departments, doctors, and the doctor visiting process. 
-* G. Other. Questions that do not fall under the above-mentioned categories.
+* Z. Other. Questions that do not fall under the above-mentioned categories.
 
 Answer Strategies
   1. Information. This category includes answers that provide information, resources, etc. It also includes requests for information. 
@@ -23,7 +23,7 @@ Answer Strategies
 
 
 # Citation
-Please cite the following papers if you found our dataset useful. Thanks:)
+Please cite the following papers if you found our work useful. Thanks:)
 
 ```
 @ARTICLE{10600466,
