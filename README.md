@@ -4,7 +4,9 @@
 📊 Dataset Split & Release for Shared Task: Comprehensive Arabic Health Question Answering Shared Task (AraHealthQA 2025)
 
 The full dataset consists of 500 annotated samples. For the purpose of this shared task, we are releasing only the training and development (train+dev) portion:
+
 Train+Dev set: 350 samples
+
 Test set: 150 samples (withheld for evaluation purposes)
 ############################################################################
 
