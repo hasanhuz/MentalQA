@@ -37,13 +37,14 @@ Please cite the following papers if you found our work useful. Thanks:)
   keywords={Annotations;Mental health;Medical services;Task analysis;Medical diagnostic imaging;Depression;Collaboration;Corpus creation;mental health;natural language processing;question-answering;questions classification},
   doi={10.1109/ACCESS.2024.3430068}}
 
-@misc{alhuzali2024evaluatingeffectivenessfoundationalmodels,
-      title={Evaluating the Effectiveness of the Foundational Models for Q&A Classification in Mental Health care}, 
-      author={Hassan Alhuzali and Ashwag Alasmari},
-      year={2024},
-      eprint={2406.15966},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-      url={https://arxiv.org/abs/2406.15966}, 
+@inproceedings{alhuzali2025pre,
+  title={Pre-Trained Language Models for Mental Health: An Empirical Study on Arabic Q\&A Classification},
+  author={Alhuzali, Hassan and Alasmari, Ashwag},
+  booktitle={Healthcare},
+  volume={13},
+  number={9},
+  pages={985},
+  year={2025},
+  organization={MDPI}
 }
 ```
