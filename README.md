@@ -1,5 +1,5 @@
 # MentalQA: An Annotated Arabic Corpus for Questions and Answers of Mental Healthcare
-## Updated on May 23, 2025:
+## Updated on August 3, 2025:
 
 📊 Dataset Split & Release for Shared Task: Comprehensive Arabic Health Question Answering Shared Task (AraHealthQA 2025)
 
@@ -7,7 +7,7 @@ The full dataset consists of 500 annotated samples. For the purpose of this shar
 
 Train+Dev set: 350 samples
 
-Test set: 150 samples (withheld for evaluation purposes)
+Test set: 150 samples (Released)
 ############################################################################
 
 This repository provides access to the MentalQA dataset, which was recently accepted in the IEEE ACCESS journal. The dataset file, named "MentalQA_500_data.csv (tab separated)," comprises four columns of data as follows:
